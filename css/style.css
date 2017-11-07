@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+.yellow{
+  background-color: rbg(221, 245, 6)
+}
+
+.black{
+  background-color: #000;
+}
